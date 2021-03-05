@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "🚸 SUPPORT 🚸", url="https://t.me/mp3andvideodownloader")
+                            "🚸 SUPPORT CHANNEL 🚸", url="https://t.me/mp3andvideodownloader")
                     ]
                 ]
             ),
